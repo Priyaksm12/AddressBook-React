@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "name": "Kynat",
+      "address": "Noida Delhi",
+      "city": "Combitore",
+      "state": "TAMILNADU",
+      "zipcode": "56789",
+      "phonenumber": "9964560890",
+      "id": 2,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "Senthil",
+      "address": "Tamilnadu karnataka India",
+      "city": "Jalandhar",
+      "state": "TAMILNADU",
+      "zipcode": "7868698",
+      "phonenumber": "9964560890",
+      "id": 4,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "Jalandhar",
+      "address": "Davangere karnataka India",
+      "city": "Davangere",
+      "state": "",
+      "zipcode": "577004",
+      "phonenumber": "9964560890",
+      "id": 5,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "ssss",
+      "address": "asdas",
+      "city": "Mysore",
+      "state": "TAMILNADU",
+      "zipcode": "534534",
+      "phonenumber": "9964560890",
+      "id": 6,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "fsdjhf",
+      "address": "ksdhcflk",
+      "city": "Mysore",
+      "state": "TAMILNADU",
+      "zipcode": "577044",
+      "phonenumber": "9964560890",
+      "id": 7,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    }
+  ]
+}
